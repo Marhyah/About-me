@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Maria from Nigeria.
-- 👀 I’m interested in data analytics/science and visualization
-- 🌱 I’m learning on Udacity, Coursera and other learning platforms to build on my analytics skills.
+- 👀 I’m interested in data science and infographics
+- 🌱 I’m learning on Udacity, Coursera and other learning platforms to build on my data science skills.
 - 📚 I'm currently training and studying for my Associate Big Data Analyst Certification with DASCA.
-- 💞️ I’m looking to collaborate with other beginners in data analytics in this learning journey and to network with other professionals.
+- 💞️ I’m looking to collaborate with data scientist in this learning journey and to network with other professionals.
 - 📫 View my resume on [GitHub Gist](https://gist.github.com/Marhyah/0f5e9520d1cc863263bd72ee3fb780da).
 
 <!---
