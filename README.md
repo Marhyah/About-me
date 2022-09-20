@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Maria from Nigeria.
-- 👀 I’m interested in data science and infographics
-- 🌱 I’m learning on Udacity, Coursera and other learning platforms to build on my data science skills.
-- 📚 I'm currently training and studying for my Associate Big Data Analyst Certification with DASCA.
-- 💞️ I’m looking to collaborate with data scientist in this learning journey and to network with other professionals.
+- 👋 Hi, I’m Maria, an ADBA certified data analyst from Lagos, Nigeria.
+- 👀 I find interest in data analytics/science, data visualization and infographics.
+- 🌱 I’m currently improving on my analytics skills and recently took interest in adding Power Platform skills to my professional toolkit.
+- 📚 Preparing to take the Microsoft PL-300 certification and learning to build PowerApps and Power Automate solutions. Currently enrolled on GCP Data Engineering Programme.
+- 💞️ I’d like to learn and collaborate with other professionals.
 - 📫 View my resume on [GitHub Gist](https://gist.github.com/Marhyah/0f5e9520d1cc863263bd72ee3fb780da).
 
 <!---
